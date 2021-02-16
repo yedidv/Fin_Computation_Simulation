@@ -1,0 +1,2 @@
+%% Convert Binary to Decimal 
+
